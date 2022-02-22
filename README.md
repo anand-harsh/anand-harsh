@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Webpage Designing
 - 📫 Reach me through betterits765@gmail.com
 
-# Skills 
+# What I know ??!!!
 
 <img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" align="left" height="100" width="100" >
 
