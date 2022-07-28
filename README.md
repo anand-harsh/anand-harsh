@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/94885893/155173111-56182e85-ec3c-44e2-b2b5-a493127e9f76.png" align="left" height="100" width="80" >
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" height="100" width="80" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" height="90" width="100" >
 
 <!---
 anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
