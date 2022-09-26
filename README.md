@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anand-harsh
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in Designing Webpages
 - 🌱 I’m currently learning JWT DJANGO REST FRAMEWORK
 - 💞️ I’m looking to collaborate on Webpage Designing
-- 📫 Reach me through betterits765@gmail.com
+- 📫 Reach me through harsh.anand.ggl@gmail.com
 
 # What I know ??!!!
 
