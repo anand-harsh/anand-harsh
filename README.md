@@ -12,7 +12,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" height="90" width="100" >
 
-![](https://komarev.com/ghpvc/?username=Schweinepriester)
+![](https://komarev.com/ghpvc/?username=anand-harsh)
 
 <!---
 anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
