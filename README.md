@@ -7,7 +7,7 @@
 # What I know ??!!!
 <pictures>
 <img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" align="left" height="80" width="80" >
-<img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" align="left" >
+<img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" align="left" height="100" width="120">
 <img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="80" width="80" >
 
 </pictures>
