@@ -17,8 +17,7 @@
 
 </picture>
 
-
-<br><br><br>
+<br>
 <br>![](https://komarev.com/ghpvc/?username=anand-harsh)  
 
 <br><h2 align="center">🏆 Trophies</h2>
