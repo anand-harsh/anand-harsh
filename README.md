@@ -6,13 +6,20 @@
 
 # What I know ??!!!
 
-<img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" align="left" height="100" width="100" >
+<img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" align="left" height="80 width="80 >
 
-<img src="https://user-images.githubusercontent.com/94885893/155173111-56182e85-ec3c-44e2-b2b5-a493127e9f76.png" align="left" height="100" width="80" >
+<img src="https://user-images.githubusercontent.com/94885893/155173111-56182e85-ec3c-44e2-b2b5-a493127e9f76.png" align="left" height="80 width="80" >
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" height="90" width="100" >
+<img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" align="left" height="80 width="80 >
 
-<img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="100" width="80" >
+<img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="80 width="80" >
+
+<img src="https://user-images.githubusercontent.com/94885893/192850288-73c99d40-e232-4930-bd7e-cb1a9c8ceb92.png" align="left" height="80 width="80" >
+
+<img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="80 width="80" >
+ 
+
+
 
 ![](https://komarev.com/ghpvc/?username=anand-harsh)
 
