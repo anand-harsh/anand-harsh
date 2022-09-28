@@ -19,7 +19,7 @@
 
 
 
-<h2 align="center">🏆 Trophies</h2>
+<br><h2 align="center">🏆 Trophies</h2>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
