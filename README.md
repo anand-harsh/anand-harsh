@@ -11,13 +11,11 @@
 
 <img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="80 width="80" >
 
-<img src="https://user-images.githubusercontent.com/94885893/192850288-73c99d40-e232-4930-bd7e-cb1a9c8ceb92.png" align="left" height="80 width="80" >
 
-<img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="80 width="80" >
 
 </picture>
 
-<br>
+<br><br>
 <br>![](https://komarev.com/ghpvc/?username=anand-harsh)  
 
 <br><h2 align="center">🏆 Trophies</h2>
