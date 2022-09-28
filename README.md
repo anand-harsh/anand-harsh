@@ -5,13 +5,12 @@
 - 📫 Reach me through harsh.anand.ggl@gmail.com
 
 # What I know ??!!!
-<pictures>
-<img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" align="left" height="120" width="120" padding="0" >
-<img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" align="left" height="100" width="180">
-<img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="100" width="85" >
 
+</br>
+<a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" alt="android" width="30" height="30"/> </a> 
+<a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" alt="android" width="30" height="30"/> </a> 
+<a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" alt="android" width="30" height="30"/> </a> 
 
-</pictures>
 
 <br><br><br><br><br><br><br>![](https://komarev.com/ghpvc/?username=anand-harsh) 
 <h2 align="center">🏆 Trophies</h2>
