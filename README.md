@@ -5,11 +5,11 @@
 - 📫 Reach me through harsh.anand.ggl@gmail.com
 
 # What I know ??!!!
-
+<picture>
 <img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" align="left" height="80 width="80 >
 
 <img src="https://user-images.githubusercontent.com/94885893/155173111-56182e85-ec3c-44e2-b2b5-a493127e9f76.png" align="left" height="80 width="80" >
-
+</picture>
  
 
 
