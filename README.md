@@ -26,8 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-harsh&theme=radical" alt="anand-harsh" /></p>
 
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-harsh)](https://github.com/anand-harsh/github-readme-stats)
-
 <!---
 anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
