@@ -7,11 +7,11 @@
 # What I know ??!!!
 
 
-<a target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" alt="android" width="100" height="100"/> </a> 
-<a target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" alt="android" width="150" height="85"/> </a> 
-<a class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" alt="android" width="80" height="80"/> </a> 
-<a class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192855825-aa9cba12-c01a-4898-a510-c27698586eab.png" alt="android" width="90" height="80"/> </a> 
-<a class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192855832-ec309b46-b090-4a8f-abd1-ae91ec300258.png" alt="android" width="80" height="80"/> </a> 
+<img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" alt="android" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" alt="android" width="150" height="85"/>
+<img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" alt="android" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/94885893/192855825-aa9cba12-c01a-4898-a510-c27698586eab.png" alt="android" width="90" height="80"/>
+<img src="https://user-images.githubusercontent.com/94885893/192855832-ec309b46-b090-4a8f-abd1-ae91ec300258.png" alt="android" width="80" height="80"/>
 
 
 
