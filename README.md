@@ -14,12 +14,10 @@
 
 ![](https://komarev.com/ghpvc/?username=anand-harsh)<br/>
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&theme=radical)
-
-
+![][Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&theme=radical)
 [instagram]: https://www.instagram.com/i.harshanand/
 [linkedin]: www.linkedin.com/in/anand-harsh/
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 <!---
 anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
