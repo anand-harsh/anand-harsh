@@ -5,20 +5,20 @@
 - 📫 Reach me through harsh.anand.ggl@gmail.com
 
 # What I know ??!!!
-
+<pictures>
 <img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" align="left" height="80 width="80 >
 <img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" align="left" height="80 width="80 />
 
 <img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="80 width="80" >
 
-
+                                                                                                                                                   </pictures>
 
 
 
 <br><br>
 <br>![](https://komarev.com/ghpvc/?username=anand-harsh)  
 
-<br><h2 align="center">🏆 Trophies</h2>
+<h2 align="center">🏆 Trophies</h2>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
