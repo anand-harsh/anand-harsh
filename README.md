@@ -16,6 +16,19 @@
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&theme=radical)
 
+<h2 align="center">🏆 Trophies</h2></a>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
+</p>
+<p align="center"> <img src="/assets/morty.gif" /> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-harsh&show_icons=true&locale=en&layout=compact&theme=radical" alt="anand-harsh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&locale=en&theme=radical" alt="anand-harsh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-harsh&theme=radical" alt="anand-harsh" /></p>
+
+
 
 <!---
 anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
