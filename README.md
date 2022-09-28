@@ -6,7 +6,7 @@
 
 # What I know ??!!!
 
-</br>
+
 <a class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" alt="android" width="100" height="100"/> </a> 
 <a class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" alt="android" width="140" height="85"/> </a> 
 <a class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" alt="android" width="80" height="80"/> </a> 
