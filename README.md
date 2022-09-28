@@ -15,8 +15,6 @@
 ![](https://komarev.com/ghpvc/?username=anand-harsh)<br/>
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&theme=radical)
-[instagram]: https://www.instagram.com/i.harshanand/
-[linkedin]: www.linkedin.com/in/anand-harsh/
 
 
 <!---
