@@ -5,7 +5,7 @@
 - 📫 Reach me through harsh.anand.ggl@gmail.com
 
 # What I know ??!!!
-<picture>
+
 <img src="https://user-images.githubusercontent.com/94885893/155173090-c6ae5dea-a0db-4179-bc33-054686123786.png" align="left" height="80 width="80 >
 <img src="https://user-images.githubusercontent.com/94885893/192850015-a534a5db-a0f8-4a4f-8058-5efa34cc5a3e.png" align="left" height="80 width="80 />
 
@@ -13,7 +13,7 @@
 
 
 
-</picture>
+
 
 <br><br>
 <br>![](https://komarev.com/ghpvc/?username=anand-harsh)  
