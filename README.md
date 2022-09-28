@@ -10,7 +10,9 @@
 
 <img src="https://user-images.githubusercontent.com/94885893/155173111-56182e85-ec3c-44e2-b2b5-a493127e9f76.png" align="left" height="100" width="80" >
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" height="90" width="100" ></br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" height="90" width="100" >
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-byoxw&psig=AOvVaw1gZ7kcpUxrl5DoyOWyJz0y&ust=1664472085246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKijlu3_t_oCFQAAAAAdAAAAABAE" align="left" height="100" width="80" >
 
 ![](https://komarev.com/ghpvc/?username=anand-harsh)
 
