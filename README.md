@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" align="left" height="80 width="80" >
 
-                                                                                                                                                   </pictures>
+</pictures>
 
 
 
