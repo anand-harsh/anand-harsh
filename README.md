@@ -12,7 +12,7 @@
 <a class="padded" target="_blank"> <img src="https://user-images.githubusercontent.com/94885893/192849410-9f2ae998-e907-4f56-950d-570d98307a01.png" alt="android" width="80" height="80"/> </a> 
 
 
-<br><br>![](https://komarev.com/ghpvc/?username=anand-harsh) 
+![](https://komarev.com/ghpvc/?username=anand-harsh) 
 <h2 align="center">🏆 Trophies</h2>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
 </p>
