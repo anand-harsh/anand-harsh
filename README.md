@@ -10,9 +10,9 @@
 
 <img src="https://user-images.githubusercontent.com/94885893/155173111-56182e85-ec3c-44e2-b2b5-a493127e9f76.png" align="left" height="100" width="80" >
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" height="90" width="100" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="left" height="90" width="100" ></br>
 
-![](https://komarev.com/ghpvc/?username=anand-harsh)<br/>
+![](https://komarev.com/ghpvc/?username=anand-harsh)
 
 <h2 align="center">🏆 Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
