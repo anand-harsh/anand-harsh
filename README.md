@@ -28,6 +28,8 @@
   <a href="https://github.com/anand-harsh/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/anand-harsh-profile-views"/></a>
 </p>
+
+![Visitor](https://profile-counter.glitch.me/anand-harsh/count.svg)
     
 <h2 align="center">🏆 Trophies</h2>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
