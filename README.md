@@ -38,11 +38,11 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-harsh)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&locale=en&theme=radical" alt="anand-harsh" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&locale=en&theme=radical" alt="anand-harsh" /></p>
 
 <p align="center">
   <a href="https://github.com/anand-harsh/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anand-harsh's streak" src="https://streak-stats.demolab.com/?user=anand-harsh&theme=radical"/>
+    <img align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anand-harsh's streak" src="https://streak-stats.demolab.com/?user=anand-harsh&theme=radical"/>
   </a>
 </p>
 
