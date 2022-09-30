@@ -26,10 +26,8 @@
   <a href="https://github.com/anand-harsh?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/anand-harsh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/anand-harsh/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/anand-harsh-profile-views"/></a>
+    <img alt="views" title="GitHub profile views/></a>
 </p>
-
-![Visitor](https://profile-counter.glitch.me/anand-harsh/count.svg)
     
 <h2 align="center">🏆 Trophies</h2>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
