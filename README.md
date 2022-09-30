@@ -36,7 +36,7 @@
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-harsh&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-harsh)](https://github.com/anand-harsh/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&locale=en&theme=radical" alt="anand-harsh" /></p>
 
