@@ -26,7 +26,7 @@
   <a href="https://github.com/anand-harsh?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/anand-harsh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-![](https://komarev.com/ghpvc/?username=anand-harsh&color=dc143c)
+![](https://komarev.com/ghpvc/?username=anand-harsh)
     
 <h2 align="center">🏆 Trophies</h2>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
