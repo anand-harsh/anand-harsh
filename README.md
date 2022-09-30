@@ -33,7 +33,7 @@
 </p>
 
 
-[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anand-harsh&theme=dracula)](https://github.com/anand-harsh/github-readme-activity-graph)
+[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anand-harsh&theme=react-dark)](https://github.com/anand-harsh/github-readme-activity-graph)
 
 <!---/
 anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
