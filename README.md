@@ -38,7 +38,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anand-harsh&show_icons=true&locale=en&theme=radical" alt="anand-harsh" /></p>
+
 
 <p align="center">
   <a href="https://github.com/anand-harsh/github-readme-streak-stats">
