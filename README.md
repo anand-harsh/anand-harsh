@@ -5,8 +5,8 @@
 
 - 👋 Hi, I’m Harsh
 - 👀 I’m interested in Designing Webpages
-- 🌱 I’m currently learning JWT DJANGO REST FRAMEWORK
-- 💞️ I’m looking to collaborate on Webpage Designing
+- 🌱 I’m currently working on a JAVA PROJECT
+- 💞️ I’m looking to collaborate on Webpage Designing && JAVA PROJECT
 - 📫 Reach me through harsh.anand.ggl@gmail.com
 
 # What I know ??!!!
