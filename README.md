@@ -42,17 +42,10 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anand-harsh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![Harsh's Streak](https://github-readme-streak-stats.herokuapp.com?user=anand-harsh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 
-<p align="center">
-  <a href="https://github.com/anand-harsh/github-readme-streak-stats">
-    <img align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anand-harsh's streak" src="https://streak-stats.demolab.com/?user=anand-harsh&theme=radical"/>
-  </a>
-</p>
-
-
-[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anand-harsh&theme=react-dark)](https://github.com/anand-harsh/github-readme-activity-graph)
+[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=anand-harsh&bg_color=000000&color=9537ae&line=109326&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---/
 anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
