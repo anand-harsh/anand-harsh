@@ -53,6 +53,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-harsh&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
 
 <!---/
 anand-harsh/anand-harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
