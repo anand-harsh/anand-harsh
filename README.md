@@ -4,8 +4,7 @@
 </h3>
 
 - 👋 Hi, I’m Harsh
-- 👀 I’m interested in Designing Webpages
-- 🌱 I’m currently working on a JAVA PROJECT
+- 👀 I’m interested in Designing Webpapps
 - 💞️ I’m looking to collaborate on Webpage Designing && JAVA PROJECT
 - 📫 Reach me through harsh.anand.ggl@gmail.com
 
