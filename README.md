@@ -22,7 +22,7 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Java](https://img.shields.io/badge/django-%23ED8B00.svg?style=for-the-badge&logo=Django&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 
