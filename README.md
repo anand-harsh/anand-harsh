@@ -40,27 +40,27 @@
 
 
 ![](https://komarev.com/ghpvc/?username=anand-harsh)
-    
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <h2 align="center">🏆 Trophies</h2>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <!-- LeetCode Stats Card ❤️ -->
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/harshanand245)
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 [![anand-harsh's GitHub | Stats](https://stats.quine.sh/anand-harsh/github?theme=dark)](https://quine.sh)
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 [![anand-harsh's GitHub | Languages Over Time](https://stats.quine.sh/anand-harsh/languages-over-time?theme=dark)](https://quine.sh)
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-harsh&theme=tokyonight&show_icons=true)
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 ![Harsh's Streak](https://github-readme-streak-stats.herokuapp.com?user=anand-harsh&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-harsh&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 Know with me ✨✨
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
