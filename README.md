@@ -46,7 +46,6 @@
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
 <!-- LeetCode Stats Card ❤️ -->
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/harshanand245)
 
