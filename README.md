@@ -55,6 +55,9 @@
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=anand-harsh&margin-w=30&theme=onedark&row=1"/>
 </p>
 <p align="center"> <img src="/assets/morty.gif" /> </p>
+
+[![An image of @anandharsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anandharsh)](https://holopin.io/@anandharsh)
+
 <!-- LeetCode Stats Card ❤️ -->
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/harshanand245)
