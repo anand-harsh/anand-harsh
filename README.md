@@ -4,7 +4,7 @@
 </h3>
 
 - 👋 Hi, I’m Harsh
-- 👀 I’m interested in Designing Webpapps and models
+- 👀 I’m interested in Designing Webpapps and machine learning or natual language processing models
 - 💞️ I’m looking to collaborate on Webpage Designing && Machine Learning Model to End to End application
 - 📫 Reach me through harsh.anand.ggl@gmail.com
 
