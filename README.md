@@ -60,7 +60,7 @@
 
 <!-- LeetCode Stats Card ❤️ -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/harshanand245)
+![Leetcode Stats](https://leetcard.jacoblin.cool/harshanandLC)
 
 [![anand-harsh's GitHub | Stats](https://stats.quine.sh/anand-harsh/github?theme=dark)](https://quine.sh)
 
