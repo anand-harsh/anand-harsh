@@ -60,8 +60,6 @@
 
 <!-- LeetCode Stats Card ❤️ -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/harshanandLC)
-
 [![anand-harsh's GitHub | Stats](https://stats.quine.sh/anand-harsh/github?theme=dark)](https://quine.sh)
 
 [![anand-harsh's GitHub | Languages Over Time](https://stats.quine.sh/anand-harsh/languages-over-time?theme=dark)](https://quine.sh)
